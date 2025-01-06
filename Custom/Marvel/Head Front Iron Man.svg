@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512px"
+   height="512px"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="Head Front Iron Man.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12125"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.1291572"
+     inkscape:cx="225.44131"
+     inkscape:cy="232.95602"
+     inkscape:window-width="1912"
+     inkscape:window-height="1011"
+     inkscape:window-x="1924"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs12120" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#d60000;stroke:none;stroke-width:9.27322;stroke-linecap:round"
+       id="rect12356"
+       width="512"
+       height="512"
+       x="0"
+       y="0" />
+    <path
+       style="fill:#ffd40c;stroke:none;stroke-width:4.49998;stroke-linecap:round"
+       d="M 92,120 70,309 v 10 l 3,61 88,84 h 192 l 86,-84 5,-62.5 V 308 L 422,120 c -3.36415,-28.748222 -58.97407,-22.362276 -86,-12 -38.65517,14.82116 -80,95 -80,95 0,0 -41.32074,-80.24182 -80,-95 C 149.57398,97.917077 95.270268,91.905421 92,120 Z"
+       id="path12899"
+       sodipodi:nodetypes="sccccccccsacas" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:4.49998;stroke-linecap:round"
+       d="m 132,228 110,20 -8,58 -112,-22 z"
+       id="path12964"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#212221;stroke:none;stroke-width:4.49998;stroke-linecap:round"
+       d="m 188,374 h 136 v 32 H 188 Z"
+       id="path13029"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#212221;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 166,464 V 338 L 72,314 h -2"
+       id="path13031"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#212221;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 348,464 V 338 l 94,-24 h 2"
+       id="path17389"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:4.49998;stroke-linecap:round"
+       d="m 380,228 -110,20 8,58 112,-22 z"
+       id="path17391"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
