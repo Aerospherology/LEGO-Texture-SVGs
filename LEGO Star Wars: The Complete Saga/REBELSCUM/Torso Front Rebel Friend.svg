@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="Torso Front Rebel Friend.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.6210937"
+     inkscape:cx="194.93013"
+     inkscape:cy="358.70844"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#212221;fill-opacity:1;stroke:none;stroke-width:7.91269;stroke-linecap:round;stroke-linejoin:round"
+       id="rect6252"
+       width="512"
+       height="512"
+       x="0"
+       y="0"
+       inkscape:label="Background" />
+    <path
+       id="path887-6"
+       style="display:inline;fill:#d60000;fill-opacity:1;stroke:#212221;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 213,133.07287 c -13.92673,2.36679 -29.04707,5.07874 -40,14 -3.01402,2.45495 -6,10 -6,10 L 135,520 H 397 L 363,161.07287 c 0,0 -2.83772,-8.83772 -6,-12 -8.43274,-8.43274 -20.39333,-13.26004 -32,-16 -36.33463,-8.57744 -75.19439,-6.25496 -112,0 z"
+       inkscape:label="Shirt"
+       sodipodi:nodetypes="aaccccaaa" />
+    <path
+       style="fill:#d60000;fill-opacity:1;stroke:#212221;stroke-width:16;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 144,156 162,32 h 204 l 16,124 -117,-56 z"
+       id="path1"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="Collar" />
+    <path
+       style="fill:#ffc99c;fill-opacity:1;stroke:#212221;stroke-width:16;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 176,32 H 354 L 263,188 Z"
+       id="path4997"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="Skin" />
+  </g>
+</svg>
