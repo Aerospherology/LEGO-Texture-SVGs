@@ -8,7 +8,7 @@
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="Torso Front Rebel General.svg"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,10 +24,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="5.4805275"
-     inkscape:cx="51.637365"
-     inkscape:cy="67.420517"
+     inkscape:cx="42.149227"
+     inkscape:cy="62.129056"
      inkscape:window-width="1920"
-     inkscape:window-height="1048"
+     inkscape:window-height="1039"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -41,48 +41,55 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:26.09;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:104.36;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect5806"
-       width="128"
-       height="128"
+       width="512"
+       height="512"
        x="0"
        y="0"
-       inkscape:label="Background" />
+       inkscape:label="background" />
     <path
        style="display:inline;fill:#ffc99c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 46,9 h 36 v 3 L 70,20 H 58 L 46,12 Z"
        id="path5234"
        sodipodi:nodetypes="ccccccc"
-       inkscape:label="Skin" />
+       inkscape:label="skin" />
     <path
-       style="display:inline;fill:#673400;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#673400;fill-opacity:1;stroke:#222222;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 46,12 12,8 h 12 l 12,-8 8,136 H 38 Z"
        id="path1368"
        sodipodi:nodetypes="ccccccc"
-       inkscape:label="Undershirt" />
+       inkscape:label="undershirt" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 60,20 44,30"
-       id="path3877"
-       sodipodi:nodetypes="cc"
-       inkscape:label="CollarR" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 68,20 84,30"
-       id="path4278"
-       sodipodi:nodetypes="cc"
-       inkscape:label="CollarL" />
-    <path
-       id="path959"
-       style="display:inline;fill:#d6ba84;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:label="Sides"
-       d="M 50 -26 L 22.251953 24.560547 L 35.748047 159.43945 L 50 -26 z M 78.251953 -26 L 92.505859 159.43945 L 106 24.560547 L 78.251953 -26 z " />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#222222;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 48,76 c 0,0 3.234168,-2.187832 5,-3 0.957657,-0.44046 1.987944,-0.705289 3,-1 1.319559,-0.384256 2.635929,-0.832075 4,-1 3.308359,-0.407278 6.698886,-0.462337 10,0 2.403247,0.336587 4.738374,1.120264 7,2 0.694653,0.270209 1.441223,0.506721 2,1 0.901001,0.795388 2,3 2,3 h -2 c 0,0 -7.233044,-2.495536 -11,-3 -1.982304,-0.265466 -4.009733,-0.197075 -6,0 -3.382803,0.334963 -10,2 -10,2 z"
        id="path6038"
        sodipodi:nodetypes="caaaaaaccaacc"
-       inkscape:label="Belly" />
+       inkscape:label="formshading" />
+    <path
+       style="fill:none;stroke:#222222;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 60,20 44,30"
+       id="path3877"
+       sodipodi:nodetypes="cc"
+       inkscape:label="collaroutlineR" />
+    <path
+       style="fill:none;stroke:#222222;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 68,20 84,30"
+       id="path4278"
+       sodipodi:nodetypes="cc"
+       inkscape:label="collaroutlineL" />
+    <path
+       style="display:inline;fill:#d6ba84;fill-opacity:1;stroke:#222222;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 22.252745,24.55959 50,-26 35.747254,159.44041 Z"
+       id="path959"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="jacketR" />
+    <path
+       style="display:inline;fill:#d6ba84;fill-opacity:1;stroke:#222222;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 105.99997,24.55959 78.252713,-26 92.505459,159.44041 Z"
+       id="path4416"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="jacketL" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.08155;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect5910"
@@ -90,6 +97,6 @@
        height="9"
        x="0"
        y="0"
-       inkscape:label="Stencil" />
+       inkscape:label="foreground" />
   </g>
 </svg>

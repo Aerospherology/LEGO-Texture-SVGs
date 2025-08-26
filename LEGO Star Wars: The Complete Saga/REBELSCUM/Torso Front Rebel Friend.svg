@@ -7,7 +7,7 @@
    viewBox="0 0 512 512"
    version="1.1"
    id="svg5"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="Torso Front Rebel Friend.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,10 +24,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.6210937"
-     inkscape:cx="194.93013"
-     inkscape:cy="358.70844"
+     inkscape:cx="282.52531"
+     inkscape:cy="226.08193"
      inkscape:window-width="1920"
-     inkscape:window-height="1048"
+     inkscape:window-height="1039"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -47,24 +47,17 @@
        height="512"
        x="0"
        y="0"
-       inkscape:label="Background" />
+       inkscape:label="background" />
     <path
-       id="path887-6"
-       style="display:inline;fill:#d60000;fill-opacity:1;stroke:#212221;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 213,133.07287 c -13.92673,2.36679 -29.04707,5.07874 -40,14 -3.01402,2.45495 -6,10 -6,10 L 135,520 H 397 L 363,161.07287 c 0,0 -2.83772,-8.83772 -6,-12 -8.43274,-8.43274 -20.39333,-13.26004 -32,-16 -36.33463,-8.57744 -75.19439,-6.25496 -112,0 z"
-       inkscape:label="Shirt"
-       sodipodi:nodetypes="aaccccaaa" />
+       id="path887"
+       style="fill:#d60000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 170,40 -18,108 64,-32 z m 188,0 -46,76 62,32 z m -141.9082,93.50195 c -1.52411,0.0554 -2.96321,0.20241 -4.0918,0.49805 -11.83893,3.10122 -23.22573,9.46829 -32,18 -2.78699,2.70994 -5.64607,6.12884 -6,10 L 142,512 H 388 L 354,162 c -0.4324,-4.45118 -2.83772,-8.83772 -6,-12 -8.43274,-8.43274 -20.39333,-13.26004 -32,-16 -3.893,-0.91901 -12,0 -12,0 l -34,58 c -2.36002,4.02592 -11.85603,4.14502 -14,0 l -30,-58 c 0,0 -5.33587,-0.66434 -9.9082,-0.49805 z"
+       inkscape:label="shirt" />
     <path
-       style="fill:#d60000;fill-opacity:1;stroke:#212221;stroke-width:16;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 144,156 162,32 h 204 l 16,124 -117,-56 z"
-       id="path1"
-       sodipodi:nodetypes="cccccc"
-       inkscape:label="Collar" />
-    <path
-       style="fill:#ffc99c;fill-opacity:1;stroke:#212221;stroke-width:16;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 176,32 H 354 L 263,188 Z"
+       style="fill:#ffc99c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 184,34 h 162 l -74,128 c -2.66935,4.61725 -13.38527,4.6484 -16,0 z"
        id="path4997"
-       sodipodi:nodetypes="cccc"
-       inkscape:label="Skin" />
+       sodipodi:nodetypes="ccssc"
+       inkscape:label="skin" />
   </g>
 </svg>
